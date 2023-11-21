@@ -1,0 +1,21 @@
+{
+  "name": "mycontacts-backend-server",
+  "version": "1.0.0",
+  "description": "This is a Express JS project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "server.js",
+    "dev": "server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayasuryard31/Contact-Management-App.git"
+  },
+  "author": "Jayasurya R D",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jayasuryard31/Contact-Management-App/issues"
+  },
+  "homepage": "https://github.com/jayasuryard31/Contact-Management-App#readme"
+}
